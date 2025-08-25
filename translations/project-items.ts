@@ -8,8 +8,8 @@ export const projectItemsTranslations = {
     es: "Herramienta para entrenar clasificadores binarios de imágenes con CNNs.",
   },
   "project2.title": {
-    en: "Suicidal Risk Detection API",
-    es: "API de detección de riesgo suicida",
+    en: "Suicidal Risk Detection",
+    es: "Detección de riesgo suicida",
   },
   "project2.description": {
     en: "Web application for identifying suicidal ideation in user-submitted text via NLP.",
