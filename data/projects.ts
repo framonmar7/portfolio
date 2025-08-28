@@ -24,7 +24,7 @@ export const projects = [
     image: "/content-moderation-api.png",
     technologies: ["Deep Learning", "Python", "NLP"],
     githubUrl: "https://github.com/framonmar7/content-moderation-api",
-    liveUrl: "https://content-moderation.framonmar7.dev/swagger/",
+    liveUrl: "https://content-moderation.framonmar7.dev/docs/",
   },
   {
     id: 4,
